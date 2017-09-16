@@ -1,0 +1,10 @@
+/* CSS declarations go here */
+body {
+    background: #202020;
+	color: #BCBCBC;
+	font-size: 1.5em;
+    margin-top:10%;
+	margin-left:10%;
+	margin-right:10%;
+	margin-bottom:20%;
+}
